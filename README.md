@@ -5,7 +5,7 @@
 
 移动端请安装压缩包“NFSM-apk.zip”。
 
-PC端请安装压缩包“NFSM-apk.zip”，PC端界面体验更佳。
+PC端请安装压缩包“NFSM-pc.zip”，PC端界面体验更佳。
 
 欢迎留言提供意见。
 
