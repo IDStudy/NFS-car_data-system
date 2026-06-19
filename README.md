@@ -36,7 +36,7 @@
 ## ⚠️ 说明
 
 - 数据来源于游戏内或官方信息收集。受不可抗力因素影响，数据更新可能存在一定延迟，敬请谅解。
-- 欢迎在 [Issues](https://github.com/IDStudy/NFSM-car_data/issues) 或者抖音评论区留言反馈问题或建议。
+- 欢迎在 [Issues](https://github.com/IDStudy/NFS-car_data-system/issues) 或者抖音评论区留言反馈问题或建议。
 
 ---
 
