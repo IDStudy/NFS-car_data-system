@@ -6,7 +6,7 @@
 
 ## 📦 下载安装
 
-> 安装包在 **Release（发行版）** 页面获取：[点击前往](https://github.com/IDStudy/NFSM-car_data-system/releases)
+> 安装包在 **Release（发行版）** 页面获取：[点击前往](https://github.com/IDStudy/NFS-car_data-system/releases)
 
 ### 📱 移动端（Android）
 
