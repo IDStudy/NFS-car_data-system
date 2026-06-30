@@ -1,5 +1,11 @@
 # 《极品飞车：集结》车辆查询系统
 
+![Release](https://img.shields.io/github/v/release/IDStudy/NFS-car_data-system?color=orange&label=release)
+![Downloads](https://img.shields.io/github/downloads/IDStudy/NFS-car_data-system/total?color=blue&label=下载量)
+![Stars](https://img.shields.io/github/stars/IDStudy/NFS-car_data-system?color=yellow)
+![Platform](https://img.shields.io/badge/平台-Android%20%7C%20Windows-brightgreen)
+![Made with love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20love-pink)
+
 一站式查询 NFSM 全部车辆信息，支持全金红车/限定/通行证/殿堂耀世车辆数据分类、升阶情况、领航员数据、车辆海报下载。
 
 ---
