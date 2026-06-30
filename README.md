@@ -5,7 +5,7 @@
 ![Release](https://img.shields.io/github/v/release/IDStudy/NFS-car_data-system?color=orange&label=release)
 ![Downloads](https://img.shields.io/github/downloads/IDStudy/NFS-car_data-system/total?color=blue&label=下载量)
 ![Stars](https://img.shields.io/github/stars/IDStudy/NFS-car_data-system?color=yellow)
-![Platform](https://img.shields.io/badge/平台-Android%20%7C%20Windows-brightgreen)
+![Platform](https://img.shields.io/badge/支持平台-Android%20%7C%20Windows-brightgreen)
 <br>
 ![Type](https://img.shields.io/badge/软件类型-数据查询工具-9cf)
 ![Free](https://img.shields.io/badge/价格-永久免费-brightgreen)
