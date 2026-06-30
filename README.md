@@ -6,10 +6,12 @@
 ![Downloads](https://img.shields.io/github/downloads/IDStudy/NFS-car_data-system/total?color=blue&label=下载量)
 ![Stars](https://img.shields.io/github/stars/IDStudy/NFS-car_data-system?color=yellow)
 ![Platform](https://img.shields.io/badge/支持平台-Android%20%7C%20Windows-brightgreen)
+![Language](https://img.shields.io/badge/语言-简体中文-red)
 <br>
 ![Type](https://img.shields.io/badge/软件类型-数据查询工具-9cf)
 ![Free](https://img.shields.io/badge/价格-永久免费-brightgreen)
 ![Simple](https://img.shields.io/badge/界面设计-简约-lightgrey)
+![Made with love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20love-pink)
 
 </div>
 
@@ -38,26 +40,26 @@
 ## ✨ 主要功能
 
 - 🔍 **车辆查询**  
-  *按全金红车/限定/通行证/殿堂耀世四大分类浏览，支持模糊搜索（组别、车辆名、上线时间）。*
+  按全金红车/限定/通行证/殿堂耀世四大分类浏览，支持模糊搜索（组别、车辆名、上线时间）。
 
 - 📊 **升阶查询**  
-  *查看全部车辆升阶情况，支持按升阶时间/上线时间排序。*
+  查看全部车辆升阶情况，支持按升阶时间/上线时间排序。
 
 - 🧭 **领航员查询**  
-  *展示领航员品质、上线时间、获取方式、返场时间，特性增益等全部信息。*
+  展示领航员品质、上线时间、获取方式、返场时间，特性增益等全部信息。
 
 - 🖼️ **海报下载**（PC端独有功能）  
-  *一键下载全部已公开的车辆海报，自动跳过已有文件，支持中断续传。*
+  一键下载全部已公开的车辆海报，自动跳过已有文件，支持中断续传。
 
 - 🌐 **进入官网**  
-  *一键直达《极品飞车：集结》官方网站，获取最新游戏资讯。*
+  一键直达《极品飞车：集结》官方网站，获取最新游戏资讯。
 
 - 🔄 **更新检查**  
-  *直达作者 GitHub 仓库发行版页面，检查软件是否有最新版本。*
+  直达作者 GitHub 仓库发行版页面，检查软件是否有最新版本。
 
 ---
 
-## ⚠️ 说明
+## ⚠️ 特别说明
 
 - **数据来源**：所有数据均源自游戏内或官方公开信息。因不可抗力因素存在更新延迟，敬请谅解。  
 - **隐私安全**：本软件为纯本地数据查询工具，**不收集任何用户个人信息**，除数据更新外无需任何网络权限，无任何广告，保证您的最佳体验。
