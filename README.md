@@ -1,16 +1,23 @@
+<div align="center">
+
 # 《极品飞车：集结》车辆查询系统
 
 ![Release](https://img.shields.io/github/v/release/IDStudy/NFS-car_data-system?color=orange&label=release)
 ![Downloads](https://img.shields.io/github/downloads/IDStudy/NFS-car_data-system/total?color=blue&label=下载量)
 ![Stars](https://img.shields.io/github/stars/IDStudy/NFS-car_data-system?color=yellow)
 ![Platform](https://img.shields.io/badge/平台-Android%20%7C%20Windows-brightgreen)
-![Made with love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20love-pink)
+<br>
+![Type](https://img.shields.io/badge/软件类型-数据查询工具-9cf)
+![Free](https://img.shields.io/badge/价格-永久免费-brightgreen)
+![Simple](https://img.shields.io/badge/界面设计-简约-lightgrey)
 
-一站式查询 NFSM 全部车辆信息，支持全金红车/限定/通行证/殿堂耀世车辆数据分类、升阶情况、领航员数据、车辆海报下载。
+一站式查询 NFSM 全部车辆信息，支持全金红车/限定/通行证/殿堂耀世车辆数据、车辆升阶情况、领航员数据、车辆海报下载。
+
+</div>
 
 ---
 
-## 📦 下载安装
+## 📦 安装指引
 
 > 安装包在 **Release（发行版）** 页面获取：[点击前往](https://github.com/IDStudy/NFS-car_data-system/releases)
 
@@ -24,28 +31,47 @@
 
 下载 `NFSM-pc.zip`，解压后运行 `NFSM车辆查询系统PC端.exe`，可创建快捷方式至桌面。
 
-> PC 端界面更美观，功能更完整，额外支持**车辆海报一键下载**功能，体验更佳。
+> PC端界面更美观，功能更完整，额外支持**车辆海报一键下载**功能，体验更佳。
 
 ---
 
 ## ✨ 主要功能
 
-- 🔍 **车辆查询**：按全金红车/限定/通行证/殿堂耀世四大分类浏览，支持模糊搜索（组别、车辆名、上线时间）
-- 📊 **升阶查询**：查看全部车辆升阶情况，支持按升阶时间/上线时间排序
-- 🧭 **领航员查询**：一次性展示品质、上线时间、获取方式、返场时间，特性增益等全部信息
-- 🖼️ **海报下载**（PC 端独有功能）：一键下载全部车辆海报，自动跳过已有文件，支持中断续传
-- 🌐 **进入官网**：一键直达《极品飞车：集结》官方网站，获取最新游戏资讯
-- 🔄 **更新检查**：直达作者 GitHub 仓库发行版页面，检查软件是否有最新版本
+- 🔍 **车辆查询**  
+  *按全金红车/限定/通行证/殿堂耀世四大分类浏览，支持模糊搜索（组别、车辆名、上线时间）*
+
+- 📊 **升阶查询**  
+  *查看全部车辆升阶情况，支持按升阶时间/上线时间排序*
+
+- 🧭 **领航员查询**  
+  *展示领航员品质、上线时间、获取方式、返场时间，特性增益等全部信息*
+
+- 🖼️ **海报下载**（PC端独有功能）  
+  *一键下载全部已公开的车辆海报，自动跳过已有文件，支持中断续传*
+
+- 🌐 **进入官网**  
+  *一键直达《极品飞车：集结》官方网站，获取最新游戏资讯*
+
+- 🔄 **更新检查**  
+  *直达作者 GitHub 仓库发行版页面，检查软件是否有最新版本*
 
 ---
 
 ## ⚠️ 说明
 
-- 数据来源于游戏内或官方公开信息。受不可抗力因素影响，数据更新可能存在一定延迟，敬请谅解。
-- 欢迎在 [Issues](https://github.com/IDStudy/NFS-car_data-system/issues) 或者抖音评论区留言反馈问题或建议。
+- **数据来源**：所有数据均源自游戏内或官方公开信息。因不可抗力因素存在更新延迟，敬请谅解。  
+- **隐私安全**：本软件为纯本地数据查询工具，**不收集任何用户个人信息**，除数据更新外无需任何网络权限，无任何广告，保证您的最佳体验。
+- **永久免费**：本软件承诺**永久免费**，无任何内购、订阅或付费解锁内容，可放心使用。 
+- **问题反馈**：欢迎前往 [Issues](https://github.com/IDStudy/NFS-car_data-system/issues) 或抖音评论区留言，请附上**截图和详细问题描述**，帮助我更高效地解决。
 
 ---
 
 ## 🔗 相关仓库
 
-- [车辆海报资源](https://github.com/IDStudy/NFSM-car-poster) —— 全部车辆海报原图
+- 🖼️ [车辆海报资源](https://github.com/IDStudy/NFSM-car-poster) —— 可下载全部车辆海报原图。
+
+---
+
+## 🙏 致谢
+
+感谢每一位使用本工具的你。
