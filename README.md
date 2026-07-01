@@ -10,7 +10,7 @@
 <br>
 ![Type](https://img.shields.io/badge/软件类型-数据查询工具-9cf)
 ![Free](https://img.shields.io/badge/价格-永久免费-brightgreen)
-![Simple](https://img.shields.io/badge/界面设计-简约-lightgrey)
+![Simple](https://img.shields.io/badge/界面设计-纯净无广-lightgrey)
 ![Offline](https://img.shields.io/badge/功能-离线可用-success)
 ![Made with love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20love-pink)
 
