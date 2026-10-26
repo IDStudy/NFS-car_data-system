@@ -103,11 +103,13 @@ Some in-game terms are hard to translate, so here is how this README maps them:
 | 殿堂 | Hall of Fame | Tag for gold-tier cars that require heavy spending |
 | 耀世 | Radiant World | Tag for red-tier cars |
 | 紫升金 | Purple→Gold | Purple-tier cars that upgrade into gold tier |
-| 二阶 | Stage 2 | One upgrade applied to a base car (turns purple cars gold) |
+| 二阶 / 2 阶升金 | Stage 2 | One upgrade applied to a base car; for purple cars the result is a gold car (same as Purple→Gold) |
 | 10 级专家 | Expert upgrade | Separate upgrade system, Lv.0 → Lv.10; stronger, costs far more |
 | 领航员 | Navigator | Co-driver companion that grants stat and passive bonuses |
 | 彩标 / 红标 | Colour Badge / Red Badge | Lap-time standards; the Colour Badge target is the harder one |
-| 官方 / 蓝图 / 火箭飞鼠 | Official / Blueprint / Rocket Flying Squirrel | Official tracks, player-made tracks, and the jetpack-character game mode |
+| 官方赛道 / 蓝图赛道 / 火箭飞鼠 | Official tracks / Blueprint tracks / Rocket Flying Squirrel | Track categories: official tracks, player-made tracks, and the jetpack-character game mode |
+| 组别 | Class | Vehicle class: Sport / Classic / Petrol / Hybrid (some cars count as two) |
+| 返场 | Rerun | A limited-release car being made available again |
 
 ---
 
