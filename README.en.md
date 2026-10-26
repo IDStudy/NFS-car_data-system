@@ -1,5 +1,3 @@
-English | [简体中文](README.md)
-
 <div align="center">
 
 # Need for Speed: Assemble (NFSM) Vehicle Database
@@ -15,6 +13,8 @@ English | [简体中文](README.md)
 ![Simple](https://img.shields.io/badge/UI-No%20Ads-lightgrey)
 ![Offline](https://img.shields.io/badge/Works-Offline-success)
 ![Made with love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20love-pink)
+
+[简体中文](README.md) | [English](README.en.md)
 
 </div>
 
