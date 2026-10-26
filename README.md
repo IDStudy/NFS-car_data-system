@@ -1,3 +1,5 @@
+简体中文 | [English](README.en.md)
+
 <div align="center">
 
 # 《极品飞车：集结》车辆查询系统
