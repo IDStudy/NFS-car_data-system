@@ -1,5 +1,3 @@
-简体中文 | [English](README.en.md)
-
 <div align="center">
 
 # 《极品飞车：集结》车辆查询系统
@@ -15,6 +13,8 @@
 ![Simple](https://img.shields.io/badge/界面-纯净无广-lightgrey)
 ![Offline](https://img.shields.io/badge/功能-离线可用-success)
 ![Made with love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20love-pink)
+
+[简体中文](README.md) | [English](README.en.md)
 
 </div>
 
