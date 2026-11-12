@@ -22,6 +22,10 @@ A single place to look up every vehicle in NFSM — Gold/Red, Limited, Battle Pa
 
 > **Please note:** the app interface is in Simplified Chinese only. All game data is kept in Chinese as it appears in-game, so this tool is most useful if you can read Chinese terms or match them against in-game names.
 
+<p align="center">
+  <img src="assets/banner.gif" alt="NFSM Vehicle Database" width="880">
+</p>
+
 ---
 
 ## 📦 Installation
