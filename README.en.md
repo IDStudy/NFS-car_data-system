@@ -65,7 +65,7 @@ Download `NFSM-exe.zip`, unzip it and run `NFSM车辆查询系统PC端.exe`. You
   Browse Official, Blueprint (player-made) and Rocket Flying Squirrel courses. Shows track grade plus the Colour Badge and Red Badge target times, with fuzzy search.
 
 - 📤 **Data export** (Android only)
-  Tick any of the categories — Gold/Red, Limited, Battle Pass, Hall of Fame / Radiant World, upgrade stages, Purple→Gold, navigators, tracks — and export as TXT or CSV. Copy to clipboard, save to a file, or share via the system share sheet.
+  Tick any of the categories — Gold/Red, Limited, Battle Pass, Hall of Fame / Radiant World, upgrade stages, Purple→Gold, navigators, tracks — and export as TXT or CSV, saved to a file.
 
 - 🖼️ **Car poster download** (Windows only)
   One click downloads every released car poster, skips files you already have, and resumes interrupted downloads.
@@ -80,7 +80,7 @@ Download `NFSM-exe.zip`, unzip it and run `NFSM车辆查询系统PC端.exe`. You
 
 - 🏆 **The only one of its kind** — the only vehicle data tool in the NFSM community.
 - ⚡ **No more digging through old posts** — vehicle info used to mean scrolling back through the official WeChat account; now it is one search away.
-- 📤 **Take your data with you** — copy any result or export it to TXT/CSV, ready for your own spreadsheet or to share with your crew.
+- 📤 **Take your data with you** — export any result to TXT/CSV, ready for your own spreadsheet or to share with your crew.
 - 📴 **Works offline** — data is stored locally, so lookups work without a connection.
 - 🔒 **Privacy-safe** — everything runs locally; no personal data is collected.
 - 💯 **Free forever** — no in-app purchases, no subscriptions.
